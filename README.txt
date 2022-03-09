@@ -1,31 +1,11 @@
 
 TITLE: 
-App - Free HTML5 App Template Built with Bootstrap 4
+App - iparty your new way to connect. 
 
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Description: 
+App Site - based on flutter with connection to firebase, in order to create, locate and unite people who enjoy the same role.
+download the app from google play stores or appstore.
 
 
-CREDITS:
 
-Bootstrap
-http://getbootstrap.com/
 
-jQuery
-http://jquery.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Font Awesome
-http://fontawesome.io
-
-animate.css
-http://daneden.me/animate
-
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
