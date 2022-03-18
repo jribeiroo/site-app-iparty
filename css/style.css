@@ -35,7 +35,7 @@ html {
 #fh5co-hero-wrapper {
   height: 800px;
   width: 100%;
-  background: url("../img/banner-bg.jpg") no-repeat center;
+  background: url("../img/Group\ 10.png") no-repeat center;
   border-radius: 0 0 50% 50% / 4%;
 }
 
@@ -139,7 +139,7 @@ html {
   overflow: hidden;
 }
 .fh5co-advantages-outer .span-perfect {
-  color: #648cff;
+  color: #b30012;
   text-transform: uppercase;
   font-size: 27px;
   letter-spacing: 1px;
