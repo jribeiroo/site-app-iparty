@@ -139,7 +139,7 @@ html {
   overflow: hidden;
 }
 .fh5co-advantages-outer .span-perfect {
-  color: #b30012;
+  color: #ff2e2e;
   text-transform: uppercase;
   font-size: 27px;
   letter-spacing: 1px;
@@ -196,7 +196,7 @@ html {
   padding: 70px;
 }
 .fh5co-slider-outer h1 {
-  color: #648cff;
+  color: #ff2e2e;
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 600;
@@ -234,7 +234,7 @@ html {
 										FEATURES
    ========================================================================================================== */
 .curved-bg-div {
-  background: url("../img/curved-bgg.jpg") no-repeat;
+  background: url("../img/bg_4.png") no-repeat;
   background-position: 0px -140px;
   background-size: cover;
   width: 100%;
@@ -257,7 +257,7 @@ html {
   position: relative;
 }
 .fh5co-features-outer .sm-6-content h1 {
-  color: #648cff;
+  color: #ff2e2e;
   text-transform: uppercase;
   font-size: 25px;
   font-weight: 600;
@@ -413,7 +413,7 @@ html {
   margin-top: 100px;
 }
 .fh5co-reviews-outer > h1 {
-  color: #648cff;
+  color: #ff2e2e;
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 600;
@@ -439,7 +439,7 @@ html {
 .fh5co-bottom-outer {
   width: 100%;
   height: 572px;
-  background: url("../img/download-section-bg.jpg") no-repeat center;
+  background: url("../img/juuu.png") no-repeat center;
   margin-top: 120px;
   overflow-x: hidden;
 }
@@ -473,11 +473,15 @@ html {
   float: right;
 }
 
+.text-footer-final{
+  color: #111;
+}
+
 .footer-outer {
   width: 100%;
   padding: 50px;
   height: 250px;
-  background: #2e3149;
+  background: rgb(0, 0, 0);
   overflow: hidden;
 }
 .footer-outer .footer-inner {
@@ -568,7 +572,7 @@ html {
   margin-top: 50px;
 }
 .footer-outer .copyright {
-  color: #565b87;
+  color: #7e8c91;
   text-align: center;
   font-size: 13px;
   padding: 40px 0;
