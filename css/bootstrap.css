@@ -4109,15 +4109,6 @@ input[type="button"].btn-block {
   }
 }
 
-@media screen and (min-width: 320px) {
-
-  .back-home-media{
-    padding-right: 0.5rem !important; 
-    padding-left: 0.5rem !important;
-  }
-
-}
-
 @media (min-width: 992px) {
   .navbar-expand-lg {
     -ms-flex-flow: row nowrap;
