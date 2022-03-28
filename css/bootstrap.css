@@ -573,7 +573,7 @@ pre code {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 320px) {
   .container {
     max-width: 960px;
   }
@@ -1176,7 +1176,7 @@ pre code {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 320px) {
   .col-lg {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
@@ -5453,7 +5453,7 @@ button.close {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 320px) {
   .modal-lg {
     max-width: 800px;
   }
@@ -6309,7 +6309,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 320px) {
   .d-lg-none {
     display: none !important;
   }
@@ -6896,7 +6896,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 320px) {
   .flex-lg-row {
     -ms-flex-direction: row !important;
     flex-direction: row !important;
@@ -7210,7 +7210,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 320px) {
   .float-lg-left {
     float: left !important;
   }
@@ -8176,7 +8176,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 320px) {
   .m-lg-0 {
     margin: 0 !important;
   }
@@ -8730,7 +8730,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 320px) {
   .text-lg-left {
     text-align: left !important;
   }
@@ -8924,10 +8924,10 @@ a.text-dark:hover, a.text-dark:focus {
     size: a3;
   }
   body {
-    min-width: 992px !important;
+    
   }
   .container {
-    min-width: 992px !important;
+    min-width: 320px !important;
   }
   .navbar {
     display: none;
