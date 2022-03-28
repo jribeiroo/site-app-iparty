@@ -41,7 +41,7 @@ body {
       padding-left: 30px;
       padding-right: 30px; } }
 
-      @media (max-width:  320px) {
+      @media (min-width: 320px) {
         .font-change-contact {
           font-size: 29px;
         }
