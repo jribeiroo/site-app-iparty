@@ -4,10 +4,19 @@
 	URL: http://freehtml5.co
 */
 @import url("https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800");
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 * {
   margin: 0px;
   padding: 0px;
   font-family: "Montserrat", "sans-serif";
+}
+
+.pacific-title{
+  font-family: 'Pacifico', cursive;
+}
+
+.container-dowload{
+  margin-top: -80px;
 }
 
 html {
