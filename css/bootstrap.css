@@ -573,7 +573,7 @@ pre code {
   }
 }
 
-@media (min-width: 320px) {
+@media (min-width: 992px) {
   .container {
     max-width: 960px;
   }
@@ -1176,7 +1176,7 @@ pre code {
   }
 }
 
-@media (min-width: 320px) {
+@media (min-width: 992px) {
   .col-lg {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
@@ -4109,7 +4109,16 @@ input[type="button"].btn-block {
   }
 }
 
-@media (min-width: 320px) {
+@media screen and (min-width: 320px) {
+
+  .back-home-media{
+    padding-right: 0.5rem !important; 
+    padding-left: 0.5rem !important;
+  }
+
+}
+
+@media (min-width: 992px) {
   .navbar-expand-lg {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
@@ -4124,8 +4133,8 @@ input[type="button"].btn-block {
     position: absolute;
   }
   .navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 0.5rem !important ;
-    padding-left: 0.5rem !important;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
   }
   .navbar-expand-lg > .container,
   .navbar-expand-lg > .container-fluid {
@@ -5453,7 +5462,7 @@ button.close {
   }
 }
 
-@media (min-width: 320px) {
+@media (min-width: 992px) {
   .modal-lg {
     max-width: 800px;
   }
@@ -6309,7 +6318,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 320px) {
+@media (min-width: 992px) {
   .d-lg-none {
     display: none !important;
   }
@@ -6896,7 +6905,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 320px) {
+@media (min-width: 992px) {
   .flex-lg-row {
     -ms-flex-direction: row !important;
     flex-direction: row !important;
@@ -7210,7 +7219,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 320px) {
+@media (min-width: 992px) {
   .float-lg-left {
     float: left !important;
   }
@@ -8176,7 +8185,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 320px) {
+@media (min-width: 992px) {
   .m-lg-0 {
     margin: 0 !important;
   }
@@ -8730,7 +8739,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 320px) {
+@media (min-width: 992px) {
   .text-lg-left {
     text-align: left !important;
   }
@@ -8924,10 +8933,10 @@ a.text-dark:hover, a.text-dark:focus {
     size: a3;
   }
   body {
-    
+    min-width: 992px !important;
   }
   .container {
-    min-width: 320px !important;
+    min-width: 992px !important;
   }
   .navbar {
     display: none;
